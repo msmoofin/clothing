@@ -1,5 +1,4 @@
-# clothing
-gta fivem
+# GTA V FiveM - Clothing Modifications (Personal & Additions to Customs)
 
 All locations will be with their associated clothing.
 
