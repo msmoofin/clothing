@@ -2,4 +2,4 @@ Replacing first Female tank top with later tank top (same model/duplicate).
 This is in order to consolidate textures (and to allow adding custom ones to fill in blanks) and replace duplicate tank top with a custom shirt.
 
 Location for these files (drag and drop): 
-x64v.rpf > models > cdimages > streamedpeds_mp.rpf > mp_f_freemode_01
+x64v.rpf/models/cdimages/streamedpeds_mp.rpf/mp_f_freemode_01
