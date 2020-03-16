@@ -1,0 +1,3 @@
+									How to install
+
+mods\update\x64\dlcpacks\mpbiker\dlc.rpf\x64\models\cdimages\mpbiker_female.rpf\mp_f_freemode_01_mp_f_bikerdlc_01
