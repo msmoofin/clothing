@@ -1,0 +1,2 @@
+All of the clothing must be placed where it is currently; everything has been renamed, moved, etc. appropriate to show in-game. Make sure they DO NOT get override by other clothing, nor move to another spot, otherwise they are likely to break (custom clothing, especially womens, is REALLY finicky if you move it).
+None of these clothes override common or popular sets, and do not ruin high-slot sets. They were chosen specifically to not lose out on other clothing options.
